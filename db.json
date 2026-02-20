@@ -1,28 +1,103 @@
 {
   "games": [
     {
-      "id": 1,
-      "title": "The Witcher 3",
-      "status": "Playing",
+      "rawgId": 28613,
+      "title": "Halo: Reach",
+      "image": "https://media.rawg.io/media/games/045/0457f748c9492261ccb46147edf9c761.jpg",
+      "status": "Wishlist",
       "rating": 5,
-      "notes": "Amazing",
-      "favorite": true
+      "id": 4,
+      "notes": [
+        "\\zada"
+      ]
     },
     {
-      "id": 2,
-      "title": "The Witcher 3",
-      "status": "Playing",
-      "rating": 5,
-      "notes": "Amazing",
-      "favorite": true
+      "rawgId": 58751,
+      "title": "Halo Infinite",
+      "image": "https://media.rawg.io/media/games/e1f/e1ffbeb1bac25b19749ad285ca29e158.jpg",
+      "status": "Wishlist",
+      "rating": 0,
+      "id": 5
     },
-        {
-      "id": 3,
-      "title": "The Witcher 3",
-      "status": "Playing",
-      "rating": 5,
-      "notes": "Amazing",
-      "favorite": true
+    {
+      "rawgId": 58751,
+      "title": "Halo Infinite",
+      "image": "https://media.rawg.io/media/games/e1f/e1ffbeb1bac25b19749ad285ca29e158.jpg",
+      "status": "Wishlist",
+      "rating": 0,
+      "id": 6
+    },
+    {
+      "rawgId": 28613,
+      "title": "Halo: Reach",
+      "image": "https://media.rawg.io/media/games/045/0457f748c9492261ccb46147edf9c761.jpg",
+      "status": "Wishlist",
+      "rating": 0,
+      "id": 7
+    },
+    {
+      "rawgId": 450393,
+      "title": "Halo (itch)",
+      "image": "https://media.rawg.io/media/screenshots/aac/aaccfdc54ef56523e18337a3cfae7d7f.jpg",
+      "status": "Wishlist",
+      "rating": 0,
+      "id": 8
+    },
+    {
+      "rawgId": 450393,
+      "title": "Halo (itch)",
+      "image": "https://media.rawg.io/media/screenshots/aac/aaccfdc54ef56523e18337a3cfae7d7f.jpg",
+      "status": "Wishlist",
+      "rating": 0,
+      "id": 9
+    },
+    {
+      "rawgId": 450393,
+      "title": "Halo (itch)",
+      "image": "https://media.rawg.io/media/screenshots/aac/aaccfdc54ef56523e18337a3cfae7d7f.jpg",
+      "status": "Wishlist",
+      "rating": 0,
+      "id": 10
+    },
+    {
+      "rawgId": 546464,
+      "title": "FIFA 22",
+      "image": "https://media.rawg.io/media/games/355/355d2ec5d6b87518228dc30a9bb0e70d.jpg",
+      "status": "Wishlist",
+      "rating": 0,
+      "id": 11
+    },
+    {
+      "rawgId": 546464,
+      "title": "FIFA 22",
+      "image": "https://media.rawg.io/media/games/355/355d2ec5d6b87518228dc30a9bb0e70d.jpg",
+      "status": "Wishlist",
+      "rating": 0,
+      "id": 12
+    },
+    {
+      "rawgId": 154292,
+      "title": "asda",
+      "image": "https://media.rawg.io/media/screenshots/ae4/ae427e0f0d0f6f4770fcae19ec8be060.jpg",
+      "status": "Wishlist",
+      "rating": 0,
+      "id": 13
+    },
+    {
+      "rawgId": 609130,
+      "title": "Halo",
+      "image": "https://media.rawg.io/media/screenshots/1df/1df08ff4e8e40b15e0c7b09d4e569e35.jpg",
+      "status": "Wishlist",
+      "rating": 0,
+      "id": 14
+    },
+    {
+      "rawgId": 109985,
+      "title": "ASD",
+      "image": "https://media.rawg.io/media/screenshots/559/55989eb41a740aa1a18640f0833117dc.jpg",
+      "status": "Wishlist",
+      "rating": 0,
+      "id": 18
     }
   ]
 }
