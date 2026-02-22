@@ -4,100 +4,215 @@
       "rawgId": 28613,
       "title": "Halo: Reach",
       "image": "https://media.rawg.io/media/games/045/0457f748c9492261ccb46147edf9c761.jpg",
-      "status": "Wishlist",
+      "status": "Finished",
       "rating": 5,
-      "id": 4,
+      "id": 1,
       "notes": [
-        "\\zada"
+        "One of the best Halo stories ever",
+        "Amazing campaign and multiplayer balance"
       ]
     },
     {
       "rawgId": 58751,
       "title": "Halo Infinite",
       "image": "https://media.rawg.io/media/games/e1f/e1ffbeb1bac25b19749ad285ca29e158.jpg",
-      "status": "Wishlist",
-      "rating": 0,
-      "id": 5
+      "status": "Finished",
+      "rating": 4,
+      "id": 2,
+      "notes": [
+        "Strong multiplayer but story feels short"
+      ]
     },
     {
-      "rawgId": 58751,
-      "title": "Halo Infinite",
-      "image": "https://media.rawg.io/media/games/e1f/e1ffbeb1bac25b19749ad285ca29e158.jpg",
-      "status": "Wishlist",
-      "rating": 0,
-      "id": 6
+      "rawgId": 50566,
+      "title": "Halo 3: ODST",
+      "image": "https://media.rawg.io/media/games/f8a/f8ac43db218f2c4396fa811a050591d7.jpg",
+      "status": "Finished",
+      "rating": 4,
+      "id": 3,
+      "notes": [
+        "Great atmosphere and side story in Halo universe"
+      ]
     },
     {
-      "rawgId": 28613,
-      "title": "Halo: Reach",
-      "image": "https://media.rawg.io/media/games/045/0457f748c9492261ccb46147edf9c761.jpg",
-      "status": "Wishlist",
-      "rating": 0,
-      "id": 7
+      "rawgId": 395195,
+      "title": "Halo 2: Anniversary",
+      "image": "https://media.rawg.io/media/games/fc6/fc63fb73da1edb6e18d4387a971f18a2.jpg",
+      "status": "Finished",
+      "rating": 4,
+      "id": 4,
+      "notes": [
+        "Remastered visuals, classic gameplay"
+      ]
     },
     {
-      "rawgId": 450393,
-      "title": "Halo (itch)",
-      "image": "https://media.rawg.io/media/screenshots/aac/aaccfdc54ef56523e18337a3cfae7d7f.jpg",
-      "status": "Wishlist",
-      "rating": 0,
-      "id": 8
+      "rawgId": 8444,
+      "title": "Halo 5: Guardians",
+      "image": "https://media.rawg.io/media/games/77f/77fb27e5b7ec6984f43a70a289376e6a.jpg",
+      "status": "Finished",
+      "rating": 3,
+      "id": 5,
+      "notes": [
+        "Good combat but disappointing story",
+        "Worst in the series"
+      ]
     },
     {
-      "rawgId": 450393,
-      "title": "Halo (itch)",
-      "image": "https://media.rawg.io/media/screenshots/aac/aaccfdc54ef56523e18337a3cfae7d7f.jpg",
-      "status": "Wishlist",
-      "rating": 0,
-      "id": 9
+      "rawgId": 28589,
+      "title": "Halo 3",
+      "image": "https://media.rawg.io/media/games/982/982ff61d574fed5e416cb1867b40d9b0.jpg",
+      "status": "Finished",
+      "rating": 5,
+      "id": 6,
+      "notes": [
+        "A classic FPS campaign and multiplayer",
+        "Utter Classic!"
+      ]
     },
     {
-      "rawgId": 450393,
-      "title": "Halo (itch)",
-      "image": "https://media.rawg.io/media/screenshots/aac/aaccfdc54ef56523e18337a3cfae7d7f.jpg",
-      "status": "Wishlist",
-      "rating": 0,
-      "id": 10
+      "rawgId": 12756,
+      "title": "Warhammer 40,000: Space Marine",
+      "image": "https://media.rawg.io/media/games/ac2/ac25b5cef220bf5b8d052e0978451cab.jpg",
+      "status": "Finished",
+      "rating": 4,
+      "id": 7,
+      "notes": [
+        "Great melee combat and Warhammer feel"
+      ]
     },
     {
-      "rawgId": 546464,
-      "title": "FIFA 22",
-      "image": "https://media.rawg.io/media/games/355/355d2ec5d6b87518228dc30a9bb0e70d.jpg",
-      "status": "Wishlist",
-      "rating": 0,
-      "id": 11
+      "rawgId": 705616,
+      "title": "Warhammer 40,000: Space Marine II",
+      "image": "https://media.rawg.io/media/games/950/950f4eae6dc907d7f534d5dcce454487.jpg",
+      "status": "Playing",
+      "rating": 4,
+      "id": 8,
+      "notes": [
+        "Improved graphics and gameplay over original"
+      ]
     },
     {
-      "rawgId": 546464,
-      "title": "FIFA 22",
-      "image": "https://media.rawg.io/media/games/355/355d2ec5d6b87518228dc30a9bb0e70d.jpg",
-      "status": "Wishlist",
-      "rating": 0,
-      "id": 12
+      "rawgId": 36513,
+      "title": "Star Wars: Empire at War",
+      "image": "https://media.rawg.io/media/screenshots/aba/aba716fc2cc2539a94410703bd1c30a2.jpg",
+      "status": "Finished",
+      "rating": 4,
+      "id": 9,
+      "notes": [
+        "Fun RTS with classic Star Wars battles"
+      ]
     },
     {
-      "rawgId": 154292,
-      "title": "asda",
-      "image": "https://media.rawg.io/media/screenshots/ae4/ae427e0f0d0f6f4770fcae19ec8be060.jpg",
-      "status": "Wishlist",
-      "rating": 0,
-      "id": 13
+      "rawgId": 793647,
+      "title": "Star Wars Jedi: Survivor",
+      "image": "https://media.rawg.io/media/games/3e4/3e43e29ae126ef951842393f5ff7f33a.jpg",
+      "status": "Playing",
+      "rating": 4,
+      "id": 10,
+      "notes": [
+        "Strong combat, some pacing issues"
+      ]
     },
     {
-      "rawgId": 609130,
-      "title": "Halo",
-      "image": "https://media.rawg.io/media/screenshots/1df/1df08ff4e8e40b15e0c7b09d4e569e35.jpg",
-      "status": "Wishlist",
-      "rating": 0,
-      "id": 14
+      "rawgId": 35561,
+      "title": "Star Wars: Republic Commando",
+      "image": "https://media.rawg.io/media/games/b1d/b1de33eca64ad293702d9554f5ac5cd5.jpg",
+      "status": "Finished",
+      "rating": 5,
+      "id": 11,
+      "notes": [
+        "Highly rated tactical shooter with squad AI"
+      ]
     },
     {
-      "rawgId": 109985,
-      "title": "ASD",
-      "image": "https://media.rawg.io/media/screenshots/559/55989eb41a740aa1a18640f0833117dc.jpg",
+      "rawgId": 28152,
+      "title": "STAR WARS Battlefront II",
+      "image": "https://media.rawg.io/media/games/f54/f54e9fb2f4aac37810ea1a69a3e4480a.jpg",
+      "status": "Playing",
+      "rating": 3,
+      "id": 12,
+      "notes": [
+        "Mixed reception due to progression system",
+        "Loved the introdcution of the Clone Battalions"
+      ]
+    },
+    {
+      "rawgId": 13886,
+      "title": "Star Wars: Battlefront II (2005)",
+      "image": "https://media.rawg.io/media/games/662/6625a20ca1d13699ee7c191b20a02408.jpg",
+      "status": "Finished",
+      "rating": 4,
+      "id": 13,
+      "notes": [
+        "Classic Battlefront favorite",
+        "Still miss the Galactic conquest"
+      ]
+    },
+    {
+      "rawgId": 15859,
+      "title": "Star Wars: Knights of the Old Republic",
+      "image": "https://media.rawg.io/media/games/6e0/6e0c19bb111bd4fa20cf0eb72a049519.jpg",
+      "status": "Finished",
+      "rating": 5,
+      "id": 14,
+      "notes": [
+        "Legendary RPG with strong story"
+      ]
+    },
+    {
+      "rawgId": 15858,
+      "title": "Star Wars: Knights of the Old Republic II – The Sith Lords",
+      "image": "https://media.rawg.io/media/games/046/0464f4a36cd975a37c95b93b06058855.jpg",
+      "status": "Finished",
+      "rating": 5,
+      "id": 15,
+      "notes": [
+        "Dark, deep story and great writing"
+      ]
+    },
+    {
+      "rawgId": 13468,
+      "title": "Total War: ATTILA",
+      "image": "https://media.rawg.io/media/games/2d8/2d864084a72d9e348e8f5663d8f58ac6.jpg",
+      "status": "Playing",
+      "rating": 4,
+      "id": 16,
+      "notes": [
+        "Well regarded Total War experience"
+      ]
+    },
+    {
+      "rawgId": 10560,
+      "title": "Total War: SHOGUN 2",
+      "image": "https://media.rawg.io/media/games/be9/be9cf02720c9326e11d0fda14518554f.jpg",
+      "status": "Playing",
+      "rating": 5,
+      "id": 17,
+      "notes": [
+        "One of the most loved Total War titles"
+      ]
+    },
+    {
+      "rawgId": 51584,
+      "title": "Total War: THREE KINGDOMS",
+      "image": "https://media.rawg.io/media/games/b4c/b4cd6c7a2712b88eec149536882d6c3b.jpg",
+      "status": "Finished",
+      "rating": 4,
+      "id": 18,
+      "notes": [
+        "Beautiful setting, strong strategy"
+      ]
+    },
+    {
+      "rawgId": 1840,
+      "title": "Total War Battles: SHOGUN",
+      "image": "https://media.rawg.io/media/screenshots/9c9/9c9f16dfc0368aacb32c6cd8a7fc9f8e.jpeg",
       "status": "Wishlist",
-      "rating": 0,
-      "id": 18
+      "rating": 3,
+      "id": 19,
+      "notes": [
+        "Simpler Total War spin-off, mixed reviews"
+      ]
     }
   ]
 }
